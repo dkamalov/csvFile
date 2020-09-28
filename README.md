@@ -9,3 +9,8 @@ For task 2 I did that but put it into a shell script along with the log files sh
 
 For task 3 I decided to do an occurence counter to see how many times a word appears in a given document. I always liked these, especially with classical books because it was funny. 
 It could also be useful as well to data analysts. I made the $word and $filename like that so that any word/file an work. 
+
+For Reference :
+                  Shell Script Lab 5 is the log for the first task.
+                  DAMIRLOG is the log for the final task. 
+                  Thank you. 
