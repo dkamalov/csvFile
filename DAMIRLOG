@@ -1,0 +1,24 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.09.27 23:06:13 =~=~=~=~=~=~=~=~=~=~=~=
+login as: dkamalov
+Pre-authentication banner message from server:
+| Access to Brooklyn College computers is restricted to authorized users
+|         and approved educational and research purposes, only.
+End of banner message from server
+dkamalov@146.245.252.28's password: 
+Last login: Sun Sep 27 22:54:35 2020 from cpe-68-175-37-119.nyc.res.rr.com
+]0;dkamalov@sol28:~[?1034h[dkamalov@sol28 ~]$ ;[Kls
+adsdgbg            [0m[01;34mDesktop[0m    [01;34mDownloads[0m  [01;34mPictures[0m  [01;34mTemplates[0m
+ChicagoPublic.csv  [01;34mDocuments[0m  [01;34mMusic[0m      [01;34mPublic[0m    [01;34mVideos[0m
+]0;dkamalov@sol28:~[dkamalov@sol28 ~]$ grep 0[K-o -i POLICE ChicagoPublic.csv | wv -l
+bash: wv: command not found...
+]0;dkamalov@sol28:~[dkamalov@sol28 ~]$ grep -o -i POLICE ChicagoPublic.csv | wc -l
+25363
+]0;dkamalov@sol28:~[dkamalov@sol28 ~]$ gre [Kp -o -i Fire ChicagoPublic.csv |w[K wc-l[K[K -l
+7841
+]0;dkamalov@sol28:~[dkamalov@sol28 ~]$ grep =o[K[K-o -i Administrator ChicagoPublic.csv | wc -l
+140
+]0;dkamalov@sol28:~[dkamalov@sol28 ~]$ ;[Kgrep =[K-o -i Admin[K[K[K[K[KManage[K[K[K[K[Kng ChicagoB[KPublic.csv | wc =[K0l[K[K-l
+0
+]0;dkamalov@sol28:~[dkamalov@sol28 ~]$ grep =o[K[K-o -i Manager ChciagoP[K[K[K[K[K[K[KhicagoPublic.csv | wc -[K-;[Kl
+204
+]0;dkamalov@sol28:~[dkamalov@sol28 ~]$ 
