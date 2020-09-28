@@ -12,5 +12,5 @@ It could also be useful as well to data analysts. I made the $word and $filename
 
 For Reference :
                   Shell Script Lab 5 is the log for the first task.
-                  DAMIRLOG is the log for the final task. 
+                  DAMIRLOGTASK3 is the log for the final task. 
                   Thank you. 
